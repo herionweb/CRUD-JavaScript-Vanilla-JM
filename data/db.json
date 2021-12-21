@@ -1,0 +1,34 @@
+{
+  "player": [
+    {
+      "id": 1,
+      "name": "Modric",
+      "dorsal": "10"
+    },
+    {
+      "name": "Alaba",
+      "dorsal": "4",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Carvajal",
+      "dorsal": "2"
+    },
+    {
+      "name": "Kross",
+      "dorsal": "8",
+      "id": 7
+    },
+    {
+      "name": "Casemiro",
+      "dorsal": "14",
+      "id": 8
+    },
+    {
+      "name": "Mendy",
+      "dorsal": "5",
+      "id": 9
+    }
+  ]
+}
